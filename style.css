@@ -62,7 +62,8 @@ button{
     padding: 25px 0;
     background: #262626;
     font-weight: 300;
-    margin-top: 20px;
+    margin-top: 90%;
+    
 }
 
 @keyframes shake{
